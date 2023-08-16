@@ -1,0 +1,13 @@
+[
+  {
+    "name": "InnovativeGateCircuit",
+    "protocol": "groth16",
+    "circuit": "InnovativeGateCircuit/circuit.circom",
+    "input": "InnovativeGateCircuit/input.json",
+    "wasm": "InnovativeGateCircuit/out/circuit.wasm",
+    "zkey": "InnovativeGateCircuit/out/InnovativeGateCircuit.zkey",
+    "vkey": "InnovativeGateCircuit/out/InnovativeGateCircuit.vkey",
+    "r1cs": "InnovativeGateCircuit/out/InnovativeGateCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
